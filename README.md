@@ -22,6 +22,6 @@ Players are awarded 10 points for choosing the correct answer, and 5 for each pl
 answers".
 
 # Main Features
-C++: Boost library Threads, communication using sockets.
+**C++**: Boost library Threads, communication using sockets.
 
-Java: protocol based communication, Reactor and Thread-Per-Client servers implementation.
+**Java**: protocol based communication, Reactor and Thread-Per-Client servers implementation.
