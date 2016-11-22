@@ -2,7 +2,7 @@
 C++/Java project on University's Systems programming course.
 
 # Main Idea
-The project is about communication (Client side in C++, Server side in Java).
+The project is about network communication (Client side in C++, Server side in Java).
 
 From the assignment instructions:
 
@@ -20,3 +20,8 @@ The players are then presented with both the real answer, and the fake answers p
 have to choose the real one.
 Players are awarded 10 points for choosing the correct answer, and 5 for each player that chose one of their fake
 answers".
+
+# Main Features
+C++: Boost library Threads, communication using sockets.
+
+Java: protocol based communication, Reactor and Thread-Per-Client servers implementation.
