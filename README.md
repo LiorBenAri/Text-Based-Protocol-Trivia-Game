@@ -5,6 +5,7 @@ C++/Java project on University's Systems programming course.
 The project is about communication (Client side in C++, Server side in Java).
 
 From the assignment instructions:
+
 In this assignment you will implement a text-based game server and client. The communication between the
 server and the client(s) will be performed using a simple text based protocol (TBGP), which can potentially
 support different games; However, your server will only support a single game - Bluffer.
