@@ -10,5 +10,13 @@ From the assignment instructions:
 server and the client(s) will be performed using a simple text based protocol (TBGP), which can potentially
 support different games; However, your server will only support a single game - Bluffer.
 The implementation of the server will be based on the Reactor and Thread-Per-Client servers taught in class.
-You will have to adjust them to support more complex protocols, implement the TBGP, and finally, add support
-for the Bluffer game in your server, and implement a client".
+The client is multithreaded with one thread for handling the socket and another thread to handle stdin".
+
+The Bluffer Game: 
+
+"The Bluffer game is a type of trivia game, with a twist - the players try to fool each other into choosing absurd
+answers. The game host asks a series of questions, for which the players try to provide answers that seem real.
+The players are then presented with both the real answer, and the fake answers provided by other players, and
+have to choose the real one.
+Players are awarded 10 points for choosing the correct answer, and 5 for each player that chose one of their fake
+answers".
