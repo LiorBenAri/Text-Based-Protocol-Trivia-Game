@@ -24,6 +24,6 @@ answers".
 # Main Features
 **C++**: Boost library Threads, communication using sockets.
 
-**Java**: protocol based communication, Reactor and Thread-Per-Client servers implementation.
+**Java**: protocol based communication, Reactor and Thread-Per-Client servers implementation, Maven build.
 
-**Installed Boost library is needed in order to run the project.**
+**Installed Boost library is needed in order to run the client program.**
