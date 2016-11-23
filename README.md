@@ -25,3 +25,5 @@ answers".
 **C++**: Boost library Threads, communication using sockets.
 
 **Java**: protocol based communication, Reactor and Thread-Per-Client servers implementation.
+
+**Installed Boost library is needed in order to run the project.**
